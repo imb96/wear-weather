@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     width: "100%",
     alignItems: "center",
     paddingHorizontal: 20,
-    marginBottom: 40,
+    marginBottom: 100,
   },
   title: {
     fontSize: 28,
